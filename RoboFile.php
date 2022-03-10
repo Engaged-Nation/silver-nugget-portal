@@ -2,13 +2,13 @@
 /**
  * Contains RoboFile
  *
- * @package odawa-vip
+ * @package silver-nugget
  */
 
 /**
  * @author Joshua Copeland <josh@engagednation.com>
  * @author Matthew Kosolofski <matthew.kosolofski@engagednation.com>
- * @package odawa-vip
+ * @package silver-nugget
  */
 class RoboFile extends \Robo\Tasks
 {

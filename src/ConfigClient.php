@@ -41,6 +41,6 @@ class ConfigClient extends AbstractConfigClient
      */
     public static function getClientAlias()
     {
-        return 'odawa-vip';
+        return 'silver-nugget';
     }
 }
