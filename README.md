@@ -1,6 +1,6 @@
 # Silver Nugget Player Assist Reach Portal
 
-This is the black template for Reach products.
+Silver Nugget Reach Portal Site
 
 ## Test Logins
 
