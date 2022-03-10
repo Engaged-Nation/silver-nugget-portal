@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "95d632e2f2c6a071b8ab5989424916bd",
+    "content-hash": "7038a8a3e42ccd27bc1a0e5a6b4072ac",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1062,12 +1062,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/doctrine-portal.git",
-                "reference": "acc1dbd319c7a3ebca227ace1f56698e122ee3ef"
+                "reference": "879c264f6f1599b4d19db653d10b8ea8d62b6737"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Engaged-Nation/doctrine-portal/zipball/acc1dbd319c7a3ebca227ace1f56698e122ee3ef",
-                "reference": "acc1dbd319c7a3ebca227ace1f56698e122ee3ef",
+                "url": "https://api.github.com/repos/Engaged-Nation/doctrine-portal/zipball/879c264f6f1599b4d19db653d10b8ea8d62b6737",
+                "reference": "879c264f6f1599b4d19db653d10b8ea8d62b6737",
                 "shasum": ""
             },
             "require": {
@@ -1095,7 +1095,7 @@
                 "source": "https://github.com/Engaged-Nation/doctrine-portal/tree/rc",
                 "issues": "https://github.com/Engaged-Nation/doctrine-portal/issues"
             },
-            "time": "2021-12-13T18:01:11+00:00"
+            "time": "2022-02-14T18:24:01+00:00"
         },
         {
             "name": "engaged-nation/lib-central-admin-client",
@@ -1103,12 +1103,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/lib-central-admin-client.git",
-                "reference": "4bab8e9aee0273f4019c55525fedb00bb734a37e"
+                "reference": "450ab5e4c45db5b4209cadc39cc8c815a882730f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Engaged-Nation/lib-central-admin-client/zipball/4bab8e9aee0273f4019c55525fedb00bb734a37e",
-                "reference": "4bab8e9aee0273f4019c55525fedb00bb734a37e",
+                "url": "https://api.github.com/repos/Engaged-Nation/lib-central-admin-client/zipball/450ab5e4c45db5b4209cadc39cc8c815a882730f",
+                "reference": "450ab5e4c45db5b4209cadc39cc8c815a882730f",
                 "shasum": ""
             },
             "require": {
@@ -1129,10 +1129,10 @@
             ],
             "description": "Central Admin Api Client Library",
             "support": {
-                "source": "https://github.com/Engaged-Nation/lib-central-admin-client/tree/v2.45.0",
+                "source": "https://github.com/Engaged-Nation/lib-central-admin-client/tree/v2.48.0",
                 "issues": "https://github.com/Engaged-Nation/lib-central-admin-client/issues"
             },
-            "time": "2021-11-30T22:41:31+00:00"
+            "time": "2022-02-10T01:34:44+00:00"
         },
         {
             "name": "engaged-nation/lib-encryption",
@@ -1227,12 +1227,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/portal-core.git",
-                "reference": "a08587913cb099c3d932b8213f5e7439569d5798"
+                "reference": "d390ee77dd18ee34061cff99c2c9a3ec6b7135a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Engaged-Nation/portal-core/zipball/a08587913cb099c3d932b8213f5e7439569d5798",
-                "reference": "a08587913cb099c3d932b8213f5e7439569d5798",
+                "url": "https://api.github.com/repos/Engaged-Nation/portal-core/zipball/d390ee77dd18ee34061cff99c2c9a3ec6b7135a8",
+                "reference": "d390ee77dd18ee34061cff99c2c9a3ec6b7135a8",
                 "shasum": ""
             },
             "require": {
@@ -1284,7 +1284,7 @@
                 "source": "https://github.com/Engaged-Nation/portal-core/tree/rc",
                 "issues": "https://github.com/Engaged-Nation/portal-core/issues"
             },
-            "time": "2021-12-21T19:22:06+00:00"
+            "time": "2022-03-08T23:34:11+00:00"
         },
         {
             "name": "grasmash/expander",
